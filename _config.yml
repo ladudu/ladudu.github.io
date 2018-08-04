@@ -1,8 +1,8 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: Ladudu Blog
+SEOTitle: 拉肚肚的博客 | Ladudu Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: zhang.gorge@gmail.com
 description: ""
 keyword: ""
 url: "http://ladudu.github.io"              # your host, for absolute URL
@@ -12,11 +12,11 @@ baseurl: ""#"/huxblog-boilerplate"         # for example, '/blog' if your blog h
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+#weibo_username:     l
+#zhihu_username:     huxpro
+#github_username:    huxpro
 #twitter_username:  huxpro
-facebook_username:  huxpro
+#facebook_username:  huxpro
 
 
 
