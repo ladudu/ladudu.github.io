@@ -10,7 +10,179 @@ tags:
     - 孔玮
 ---
 
-> “Yeah It's on. ”
+> “Later,respectively,wander and suffer sorrow. ”
+![java-javascript](/img/in-post/post-js-version/vivienLeigh.jpg)
+
+Gone:离开的,过去的,不复存在的
+
+![java-javascript](/img/in-post/post-js-version/Gone.jpg)
+
+When someone is gone, they have left the place where you are and are no longer there. When something is gone, it is no longer present or no longer exists.
+
+## 逝去词汇
+### Wither 
+凋零
+--If someone or something withers, they become very weak.
+
+when he went into 90, he visibly withered.
+
+他到90岁的时候已经老态毕现
+
+
+To see her face and body wither away before my eyes was exasperating.
+
+眼看着她的身体日渐衰弱真是让人心烦.
+
+Desire makes everything blossom;
+
+possession makes everything wither and fade.
+
+### perish
+
+![java-javascript](/img/in-post/post-js-version/publish_perish.jpg)
+
+Cherish & Perish
+
+珍惜和消逝
+
+The world of books is the most remarkable creation of man. Nothing else that
+he builds ever last. Mounuments fall, nations perish, civilization grow old and die out, but in the world of books are volumes that have seen this happen.
+
+Perish the thought!
+
+死了这条心吧.
+
+The homework of Lesson 1
+
+- 扩展逝去词汇组
+- 至少两个
+- 词,涵义,用法,搭配,语境
+
+## Part 01
+作者其人
+Margaret Mitchel(1900-1949)
+
+### 相似性
+
+- likeness
+
+- sameness
+
+- similarity
+
+- resemblance
+
+    There is a remarkable resemblance between Mitchell and Scarlett.
+    
+    significant similarities
+    
+- correspondence
+
+    While "the South" exists as a geographical region of the United States, It is also said to exits as "a palce of the imagination" of Mitchell and Scarlett.
+    
+    Her grandmotherr was a great source of "eye-witness information" about the Civial War.
+    She talked about hte world those people had lived in,such a secure world, and how it had exploded beneath them. And she told me that my world was going to explode under me, someday, and God help me if I didn't have some weapon to meet the new world.
+    Margaret Mitchell was a Southerner and a lifelong resident and native of Atlanta, Georgia, living in Fitzarad plantation.
+    
+    Scarlett, a pretty Southern belle, lives on Tara, a large plantation in Georgia.
+    
+### Tomboy
+
+   If you say that a girl is a tomboy, you mean that she likes playing rought or noisy games, or doing things that were traditionally considered to be things that boy enjoy.
+   
+   When little Margaret was about three years old, her dress caught fire on an iron grate. Fearing it would happen again, her mother began dressing her in boys'pants, and she was nicknamed "Jimmy". Her brother insisted she would have to be a boy named Jimmy to play with him. Having no sisters to play with, Margaret said she was a boy named Jimmy until she was fourteen.
+   
+   If she knew little about men's minds, she knew even less about the minds of women, for they interested her less. She had never had a girl friend, and she never felt any lack on that account.
+   
+   ### "知之甚少"句型
+   
+   - 仿写不同主题的句子两个
+   
+### Hot beauty
+
+Unrestrained and unconstrained 不受约束
+
+fearless and dauntless 无所畏惧
+
+### The Slogan of the tomboy and hot beauty
+
+### Nothing gonna stop us
+
+she lay in the silvery shadows with courage rising and made the plans that a sixteen-year-old makes when life has been so pleasant that defeat is an impossibility and a pretty dress and a clear complexion are weapons to vanquish fate.
+
+### vanquish
+
+ To vanquish someone means to defeat them completely in a battle or a competition.
+ 
+ "无所不能"句型
+ 
+ Defeat is an impossibility and a pretty dress and a clear complexion are weapons to vanquish fate.
+ 
+根本不可能有什么失败,只要有一件新的衣裳和一张清秀的面孔当武器就能把命运击溃.
+   
+   
+
+[作业]
+仿写两个不同主题的句子
+
+### "unscrupulous flirt"
+
+- Flirt (和...)调情;(和...)打情骂俏
+  If you flirt with someone, you behave as if you are sexually attracted to them, in a playful or not very serious way.[V with n]
+
+
+e g. He flirts outrageously with all the ladies.
+
+- Flirtation
+- 和一名学生打情骂俏的教授
+    a professor who has a flirtation with a student    
+
+- 她知道他想要挑逗她
+
+    she was aware of his attempts to flirt with her.
+    
+- 不认真地考虑;有...的念头(或想法);
+
+If you flirt with the idea of something, you consider it but do not do anything about it.
+
+He flirted with the idea of studying abroad.
+She has been flirting with the idea of a teacher career.
+
+- If you don't take a love affair seriously, it's not fun. If you do, it breaks your heart. Don't break your heart, but flirt with the possibility.
+
+- unscrupulous
+
+ If you describe a person as unscrupulous, you are criticall of the fact that they are prepared to act in dishonest or immoral way in order to get what they want.
+ 
+ Mitchell was, in her own words, an "unscrupulous flirt". She found herself engaged to five men, but maintained that she neither lied to or misled any of them.
+ 
+ A local gossip columnist, described Mitchell's love life in a 1922 coulumn:
+    "...she has in her brief life, perhaps, had more men really" truly 'dead in love' with her, more honest-to-goodness suitors than almost any other girl in Atlanta."
+    
+Scarlett was used to men asking her to marry them, men much more attractive than Charles Hamilton, and men who had more finesse than to propose at a barbecue when she had more important matters on her mind. She only saw a boy of twenty, red as a beet and he looking very silly. She wished that she could tell him how silly he looked.
+    
+But automatically, the words Ellen had taught her to say In such emergencies rose to her lips and casting down her eyes, from force of long habit, she murmured:" Mr. Hamilton, I am not unaware of the honor you have bestowed on me in wating me to become your wife, but this is all so suddent that I do not know what to say."
+    
+That was a neat way of smoothing a man's vanity and yet keeping him on the string, and Charles rose to it as though such bait were new and he the first to swallow it.
+
+She was undoubtedly the belle of the barbecue, the center of attention. The furore she was causing among the men, coupled with teh heart burning s of the other girls, would have pleased her enormously at any other time.
+
+[句型提炼:两件事一起导致了...]
+
+A, coupled with B, lead to....
+
+ if you say that one thing produces a particular effect when it is eoupled with another , you mean that the two things combine to produce that effect.
+ 
+ 
+cohesion and coherence 
+
+ Overuse of those drugs, coupled with poor diet, leads to his physical degeneration.
+
+[句型提炼:两件事一起导致了...] 
+ Naivete in grownups is often charming; but when coupled with vanity it si indistinguishable from stupidity.
+ 
+ An idea not coupled with action will never get any bigger than the brain cell it occupied.
+ 
 
 Four things come not back:the spoken word, the sped arrow, the past life and the neglected opportunity.
 
