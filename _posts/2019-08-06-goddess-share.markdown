@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "飘-孔玮"
+title:      "自我认知"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2018-08-04 17:46:00
 author:     "LaDD"
