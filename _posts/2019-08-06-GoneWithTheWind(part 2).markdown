@@ -455,17 +455,95 @@ The world is full of human lobsters; men stranded on the rocks of indecision and
 
 - Strand:滞留,搁浅.
 
- 我从来不相信什么懒洋洋的自由,我向往的自由是通过勤奋和努力实现的更广阔的人生,那样的自由才是珍贵的,有价值的;我相信一万小时定律,我从来不相信天上掉馅饼的灵感和坐等的成就.做一个自由又自律的人,靠势必实现的决心认真的活着.----山本耀司
+ - 我从来不相信什么懒洋洋的自由,我向往的自由是通过勤奋和努力实现的更广阔的人生,那样的自由才是珍贵的,有价值的;我相信一万小时定律,我从来不相信天上掉馅饼的灵感和坐等的成就.做一个自由又自律的人,靠势必实现的决心认真的活着.----山本耀司
 
- 时尚不会让你变得性感,你的经历和想象力才能让你变得性感.而要想得到这些性感没有别的捷径,唯一的方法就是你得好好生活.
+ - 时尚不会让你变得性感,你的经历和想象力才能让你变得性感.而要想得到这些性感没有别的捷径,唯一的方法就是你得好好生活.
 
- 这世界越来越糟,年轻人越发轻浮,中产阶级变得无趣.年轻人失去了活力,失去了梦想,失去了执着.青春还没结束,他们已经在庸庸碌碌,死气沉着中活着了.所有精神上的追求在他们看起来还不如一只包,所有人都用国际大品牌来武装自己,并嘲笑穷人和长者.
+ - 这世界越来越糟,年轻人越发轻浮,中产阶级变得无趣.年轻人失去了活力,失去了梦想,失去了执着.青春还没结束,他们已经在庸庸碌碌,死气沉着中活着了.所有精神上的追求在他们看起来还不如一只包,所有人都用国际大品牌来武装自己,并嘲笑穷人和长者.
 
- "自己"这个东西平时一向是看不见的,和很强的,水准很高的东西相碰撞,反弹回来,然后才知道"自己"是什么东西.
+ - "自己"这个东西平时一向是看不见的,和很强的,水准很高的东西相碰撞,反弹回来,然后才知道"自己"是什么东西.
 
  The dress set off to perfection the seventeen-inch waist, the smallest in thress counties, and the tightly fitting basques showed breasts well matured for her sixteen years.But for all the modesty of her spreading skirts, the demureness of hair netted smoothly into a chignon and the quietness of small white hands folded in her lap, her true self was poorly concealed.
 
 - demure:端庄娴静的
+
+    表达情绪
+    情绪表达
+
+Every man's work, wherher it be literature or music or pictures or architecture or anything else, is always a protrait of himself, and the more he tries to conceal himself the more clearly will his character appear.
+
+It is the false shame of folls to try to conceal wounds what have not healed.
+
+每个人都有一段悲伤,想隐藏却欲盖弥彰.
+
+有些人变了,要么是因为隐藏了一部分,要么是因为只展露了一部分.而无论选择隐藏还是展露,那变化了的一部分都并不是凭空消失或者多出来的,它一直都在你身上,一直都在.
+
+The green eyes in the carefully sweet face were turbulent,willful,lusty with life, distinctly at variance with her decorous demeanor. Her manners had been imposed upon her by her mother's gentle admonitions and the sterner discipline of her mammy; her eyes were her own.
+
+decorous 端庄稳重的
+
+demenor 外表,举止
+
+admonition 告诫,劝告
+
+stern 严厉的,苛刻的
+
+A distinctly at variance with B A和B不同
+
+Although initially she tries to behave prettily, her Instincts rise up against social restrictions. Determination defines Scarlett and drives her to achieve everything she desires by any means necessary.
+
+- "If you'll promise, we'll tell you a secret," said Stuart.
+- "What?" cried Scarlett, alert as a child at the word.
+- "Is it what we heard yesterday in Atlanta, Stu? Iif it is, you know we promised not to tell."
+
+- "Well, Miss Pitty told us."
+- "Miss Who?"
+- "You know, Ashley Wilkes" cousin who lives in Atlanta, Miss Pittypat Hamilton -- Charles and Melanie Hamilton's aunt."
+"I do, and a sillier old lady I never met in all my life."
+
+- "Well, when we were in Atlanta yesterday, waitng for the home train, her carriage went by the depot and she stopped and talked to us, and she told us there was going to be an engagement announced tomorrow night at the Wilkes ball."
+
+
+- "Oh,I know about that," said Scarlett in disappointmnet. "That silly nephew of hers, Charlie Hamilton, and Honey Wilkes. Everybody's know for years that they'd get married some time, even if he did seem kind of lukewarm about it."
+
+- "Do you think he's silly?" questioned Brent. "Last Christmas you sure let him buzz round you plenty."
+
+- "I couldn't help him buzzing," Scarlett shrugged negligently."I think he's an awful sissy."
+
+- "Besides, it isn't his engagement that's going to be announced," said Stuart triumphantly. "It's Ashley's to Charlie's sister, Miss Melanie!"
+
+- Scarlett's face did not change but her lips went white -- like a person who has received a stunning blow without warning and who, int hte first moments of shock, does not realize what has happened. So still was her face as she stared at Stuart that he, never analytic, took it for granted that she was merely suprised and very interested.
+
+- Filled with new enthusiasm by their success, they lingered on, talking about the barbecue and the ball and Ashley Wilkes and Melanie Hamilton, interrupting each other, making jokes and laughing at them, hinting broadly for invitations to supper. Some time had passed before they realized that Scarlett was having very little to say.
+
+时光流逝句型 -- 任选仿写
+
+    Some time had passed before they realized that Scarlett was having very little to say.
+
+    some time had passed before realized that.... 
+    过了很久才意识到....
+
+- muddle away
+
+- The aimless students who muddle away one's days may be foun in any college.
+
+- University students often muddle away their college life in confused mind, united with much ignorance and dullness.
+
+- idle away
+
+- The man who, solely with no regard to any goals, and without any concentration on the present and endeavor to the future, idles away his time, is no better than an idiot.
+
+- squander away
+
+- When we rocrastinate, we suander away our free time and put off important tasks we should be doing till it's too late.
+
+- dawdle away
+
+- Don't dawdle away your time, or your hair will soon turn gray.
+  Then you will moan and mourn in vain.
+
+语言本身
+总结 + 积累 + 复习
 
 
 
