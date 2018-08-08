@@ -545,6 +545,46 @@ Although initially she tries to behave prettily, her Instincts rise up against s
 语言本身
 总结 + 积累 + 复习
 
+- The atmosphere had somehow changed. Just how, the twins did not know, but the fine glow had gone out of the afternoon. Scarlett seemed to be paying little attention to what they said, although she made the correct answers. Sensing something they could not understand, baffled and annoyed by it, the twins struggled along for a while, and then rose reluctantly, looking at their watches.
+
+- "Look," he said. "Don't it look to you like she would like to ask us to stay for supper?"
+
+- "I thought she would," said Stuart. I kept waiting for her to do it, but she didn't. What do you make of it?"
+
+- "I don't make anything of it But it just looks to me like she might of. After all, it's out first day home and she hasn't seen us in quite a speel. And we had lots more things to tell her."
+
+- "It looked to me like she was mighty glad to see us when we came."
+
+- "I thought so, too."
+
+- "And then, about a half-hour ago, she got kind of quiet, like she had a headache."
+
+- "I noticed that but I didn't pay it any ming then. What do you suppose ailed her?"
+
+- "I dunno. Do you suppose we said something that made her mad?"
+
+- They both thought for a minute.
+
+- "I can't think of anything.Besides, when Scarlett gets mad, everybody knows it. She don't hold herself in like some girls do."
+
+- "Yes, that's what I like about her. She don't go around being cold and hateful when she's mad -- she tells you about it. But it was something we did or said that made her shut up talking  and look sort of sick. I could swear she was glad to see us when we came and was aimming to ask us to supper."
+
+- Then, last summer at a political speaking in a grove of oak trees at Jonesboro, they both suddenly became aware of Scarlett O'Hara. They had known her for years, and, since their childhood, she had been a favorite playmate, for she could ride horses and climb trees almost as well as they. But now to their amazement she had become a grown-up young lady and quite the most charming one in all the world.
+
+- They noticed for the first time how her green eyes danced, how depp her dimples were when she laughed, how tiny her hands and feet and what a small waist she had. Their clever remarks sent her into merry peals of laughter and, inspired by the thought that she considered them a remarkable pair, they fairly outdid themselves.
+
+- It was a memorable day in the life of the twins. Thereafter, when they talked it over, they always wondered just why they had failed to notice Scarlett's charms before. They never arrived at the correct answer, which was that Scarlett on that day had decided to make them notice.
+
+- She was constitutionally unable to endure any man being in love with any woman not herself, and the sight of India Wilkes and Stuart at the speaking had been too much for her predatory nature. Not content with Stuart alone, she had set her cap for Brent as well, and with a thoroughness that overwhelmed the two of them.
+
+- Now they were both in love with her, and India Wilkes and Letty Munroe, from Lovejoy, whom Brent had been half-heartedly courting, were far in the back of their minds. Just what the loser would do, should Scarlett accept either one of them, the twins did not ask.
+
+- They would cross that bridge when they came to it. For the present they were quite stisfied to be in accord again about one girl, for they had no jealousies between them. It was a situation which interested the neighbors and annoyed their mother, who had no liking for Scarlett.
+
+- Since the day of the speaking, Stuart had been uncomfortable in India's presence. Not that India ever reproached him or even indicated by look or gesture that she was aware of his abruptly changed allegiance.She was too much of a lady. But stuart felt guilty and ill at ease with her.
+
+
+
 
 
 
