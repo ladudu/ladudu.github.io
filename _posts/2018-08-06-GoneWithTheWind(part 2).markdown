@@ -583,6 +583,83 @@ Although initially she tries to behave prettily, her Instincts rise up against s
 
 - Since the day of the speaking, Stuart had been uncomfortable in India's presence. Not that India ever reproached him or even indicated by look or gesture that she was aware of his abruptly changed allegiance.She was too much of a lady. But stuart felt guilty and ill at ease with her.
 
+- Presence : 存在,出席,到场.
+
+As men, we are all equal in the presence of death.
+
+You find yourself refreshed by the presence of cheerful people.Why not make an honest effort to confer that pleasure on others?
+
+我们以为贫穷就是饥饿,衣不蔽体和没有房屋,然而最大的贫穷却是不被需要,没有爱和不被关心.末后的时代,物质的丰富,无法掩盖精神的贫穷;光鲜的外表,无法隐藏心灵的空虚;社会的进步,无法修饰爱心的冷漠.
+
+现在的状态:
+
+    野心
+    虚荣心
+    羞耻心
+    攀比心
+    漠不关心
+    狠心
+没有:
+
+    进取心
+    爱心
+
+- He knew he had made India love him and he knew that she still loved him and, deep in his heart, he had the feelign that he had not played the gentleman.He still liked her tremendously and respected her for her cool good breeding, her book learning and all the sterlign qualities she possessed.
+
+[作业1]
+
+The sterling qualities she possessed:
+- the book learning
+- the good breeding
+- A 
+- B
+- C
+- D
+- E
+- F
+
+- But, damn it, she was just so pallid and uninteresting and always the same, beside Scarlett's bright and changeable charm. You always knew where you stood with India and you never had the slightest notion with Scarlett. That was enough to drive a man to distraction, but it had its charm.
+
+pallid : 苍白的,无力的,无生气的
+
+helpless grief on pallid faces 苍白面孔上无助的忧伤
+
+- When the twins left scarlett standign on the porch of Tara and the last sound of flying hooves had died away, she went back to her chair like a sleepwalker. Her cface felt stiff as from pain and her mouth actually hurt from having stretched it, unwillingly, in smiles to prevent the twins from learning her secret.
+
+- she sat down wearily, tucking one foot under her, and her heart swelled up with misery, until it felt too large for her bosom. It beat with odd little jerks;Her hands were cold, and a feeling of disaster oppressed her.
+
+- oppress
+- We cannot change anythin unless we accept it. Condemnation does not liberate, it oppresses.
+
+Karl Marx
+
+- Religion is the sigh of the oppressed creature, the heart of a heartless world, just as it is the spirit of a spiritless situation. It is the opium of the people.
+
+- There were pain and bewilderment in her face, the bewilderment of a pampered child who has always had her own way for the asking and who now, for the first time, was in contact with the unpleasantness of life.
+
+- pampers
+- rejoice
+- Head & shoulders
+
+自动屏蔽不在认知范围内的东西.
+
+- Ashley to marry Melanie Hamilton!
+- Oh, it couldn't be true! The twins were mistaken.They were playing one of their jokes on her.Ashley couldn't , couldn't be in lvoe with her.Nobody could, not with a mousy little person like Melanie.
+
+- Scarlett recalled with contempt Melanie's thin childish figure, her serious heart-shaped face that was plain almost to homeliness. And Ashley couldn't have seen her in months. He hadn't been in Atlanta more tha ntwice since the house party he gave last year at Twelve Oaks.
+
+- No,Ashley couldn't be in love with Melanie, because-oh, she couldn't be mistaken!--because he was in love with her!SHe,Scarlett,was the one he loved--she knew it.
+
+自以为是
+
+
+
+Mammy felt that she owned the O'Haras, body and soul, that their secrets were her secrets; and even a hint of a mystery was enough to set her upon the trail as relentlessly as a bloodhound.
+
+Do not go where the path may lead, go instead where there is no path and leave a trail.                 
+                                                    ---- Ralph Waldo Emerson
+
+
 
 
 

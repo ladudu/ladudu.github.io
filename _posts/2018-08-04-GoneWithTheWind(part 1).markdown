@@ -21,8 +21,10 @@ When someone is gone, they have left the place where you are and are no longer t
 
 ## 逝去词汇
 ### Wither 
-凋零
---If someone or something withers, they become very weak.
+ 凋零
+1. If someone or something withers, they become very weak.
+2. If a flower or plant withers,it dries up and dies.
+    The flower in lsabel's room had withered.
 
 when he went into 90, he visibly withered.
 
@@ -41,7 +43,9 @@ possession makes everything wither and fade.
 
 ![java-javascript](/img/in-post/post-js-version/publish_perish.jpg)
 
-: adsf
+1. If people or animals perish, they die as a result of very harsh conditions or as the result of an accident.
+    
+    - Most of the butterflies perish in the first frosts of autumn.
 
 Cherish & Perish
 
@@ -59,7 +63,19 @@ The homework of Lesson 1
 - 扩展逝去词汇组
 - 至少两个
 - 词,涵义,用法,搭配,语境
-
+### pass away
+    Sadly,Georgia's uncle passed away yesterday after a short illness.
+### pass on
+    I'm Sorry to learn that your dear mother has just passed on.
+### lose one's life
+    一般指由于意外事故,战争等不可抗力而造成的死亡,为意外死亡
+### depart
+    死亡的委婉说法,灵魂离开了肉体的存在去往另一个世界
+### expire
+    呼气,这里引申为最后一口气,暗指死亡
+    - The patient expired early this morning.
+### go to meet one's Maker
+    He knew that he came into the world with nothing and that he would go to meet his Maker with empty hands.
 ## Part 01
 作者其人
 Margaret Mitchel(1900-1949)
