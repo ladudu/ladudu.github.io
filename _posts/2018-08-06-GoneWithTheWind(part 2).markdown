@@ -654,10 +654,6 @@ Karl Marx
 
 
 
-Mammy felt that she owned the O'Haras, body and soul, that their secrets were her secrets; and even a hint of a mystery was enough to set her upon the trail as relentlessly as a bloodhound.
-
-Do not go where the path may lead, go instead where there is no path and leave a trail.                 
-                                                    ---- Ralph Waldo Emerson
 
 
 
