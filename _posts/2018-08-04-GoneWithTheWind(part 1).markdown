@@ -76,6 +76,7 @@ The homework of Lesson 1
     - The patient expired early this morning.
 ### go to meet one's Maker
     He knew that he came into the world with nothing and that he would go to meet his Maker with empty hands.
+    
 ## Part 01
 作者其人
 Margaret Mitchel(1900-1949)
