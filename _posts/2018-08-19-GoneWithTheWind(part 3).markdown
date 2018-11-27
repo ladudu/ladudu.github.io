@@ -220,7 +220,7 @@ For Ashley was born of a line of men who used their leisure for thinking,not doi
 
 - Why he should have captivated Scarlett when his mind was a stranger to hers she did not know. The very mystery of him excited her curiosity like a door that had neither lock nor key. The things about him which she could not understand only made her lvoe him more, and his odd, <font color=#D2691E>restrained</font> courtship only served to increase her determination to have him for her own.
 
--restrain
+- restrain
 
 - If you restrain an emotion or you restrain yourself from doing something, your prevent yourself from showing that emotion or doing what you wanted or intended to do.
 
