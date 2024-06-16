@@ -1,8 +1,9 @@
 ---
 layout:     post
 title:      "日本語レッスンのフィードバック"
-date:       2026-03-16
+date:       2024-06-15
 author:     "LaDD"
+teacher:    "May."
 header-img: "img/winston_churchill.jpg"
 tags:
     - 日本語
